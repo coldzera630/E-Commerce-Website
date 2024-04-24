@@ -1,2 +1,2 @@
-# E-Commerce-Website
+# E-Commerce Website
 || CREATED AN E-COMMERCE WEBSITE USING HTML,CSS AND JAVASCRIPT. ||
